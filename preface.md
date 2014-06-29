@@ -14,7 +14,7 @@
  - 3.2 index/suffixarray — 后缀数组实现子字符串查询
  - 3.3 container — 容器数据类型：[heap](chapter03/03.3.heap.md)、[list](chapter03/03.3.list.md)和[ring](chapter03/03.3.ring.md)
 * 第四章 日期与时间
- - 4.1 time — 日期和时间操作、显示
+ - 4.1 [time](chapter04/04.1.md) — 日期和时间操作、显示
 * 第五章 数学计算
  - 5.1 math — 基本数学函数
  - 5.2 math/big — 大数实现
